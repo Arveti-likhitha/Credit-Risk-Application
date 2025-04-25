@@ -49,4 +49,3 @@ The Streamlit app includes:
 The submission includes:
 - Complete source code for training and the web app.
 - Pre-trained model and evaluation metrics.
-- This narrated video walkthrough.
